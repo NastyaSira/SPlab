@@ -1,0 +1,9 @@
+# rules.ninja
+
+rule compile
+    command = g++ -MMD -MT $out -MF $out.d -c $in -o $out
+    depfile = $out.d
+    deps = gcc
+
+rule link
+    command = g++ $in -o $out

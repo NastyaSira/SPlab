@@ -1,0 +1,17 @@
+# build.ninja
+
+include rules.ninja
+
+cxx = g++
+cxxflags = -std=cpp17
+
+sources = main.cpp calculator.cpp
+objects = main.o calculator.o
+
+executable = SPlab4
+
+# Compile sources
+build $objects: compile $sources
+
+# Link objects
+build $executable: link $objects

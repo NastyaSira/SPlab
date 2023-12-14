@@ -1,0 +1,4 @@
+/Users/anastasiasira/CLionProjects/SPlab4/cmake-build-debug/CMakeFiles/calculator_lib.dir
+/Users/anastasiasira/CLionProjects/SPlab4/cmake-build-debug/CMakeFiles/SPlab4.dir
+/Users/anastasiasira/CLionProjects/SPlab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anastasiasira/CLionProjects/SPlab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
