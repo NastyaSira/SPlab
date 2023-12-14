@@ -1,7 +1,7 @@
 //
 // Created by Anastasia Sira on 15.12.2023.
 //
-// calculator.cpp
+
 #include "calculator.h"
 
 int Calculator::add(int a, int b) {
